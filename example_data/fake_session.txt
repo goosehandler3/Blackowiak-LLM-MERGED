@@ -1,0 +1,2 @@
+Client: John Doe
+Notes: This is a fake session.

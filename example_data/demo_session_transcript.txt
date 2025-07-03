@@ -1,0 +1,61 @@
+DEMO THERAPY SESSION TRANSCRIPT
+==================================================
+
+NOTE: This is a fictional therapy session created for testing purposes.
+It demonstrates the expected input/output format for the Blackowiak LLM system.
+
+[0.0s] Therapist: Good morning, thank you for coming in today. How are you feeling?
+
+[3.2s] Client: I'm doing okay, I guess. It's been a rough week though.
+
+[7.1s] Therapist: I'm sorry to hear that. What's been making it particularly challenging?
+
+[11.5s] Client: Work has been really stressful. My manager keeps piling on more projects, and I feel like I can't keep up. I've been losing sleep over it.
+
+[18.9s] Therapist: That sounds overwhelming. When you say you're losing sleep, can you tell me more about that?
+
+[23.4s] Client: I lie awake at night thinking about all the things I need to do. My mind just races. I probably get about four or five hours of sleep on a good night.
+
+[31.2s] Therapist: Sleep is so important for managing stress and emotions. Have you noticed how the lack of sleep affects you during the day?
+
+[37.8s] Client: Oh definitely. I'm irritable, I can't concentrate, and I feel like I'm just going through the motions. Yesterday I snapped at my partner over something really small.
+
+[46.1s] Therapist: It sounds like you're recognizing the connections between your sleep, stress, and relationships. That's actually really insightful. How did your partner respond when you snapped?
+
+[54.3s] Client: They were understanding, which made me feel even worse. They said I seemed stressed and asked if I wanted to talk about it. But I just shut down.
+
+[62.7s] Therapist: It can be hard to open up when we're feeling overwhelmed. What do you think made it difficult to share with your partner in that moment?
+
+[69.9s] Client: I guess I was embarrassed. I feel like I should be able to handle work stress better. I don't want to be a burden.
+
+[77.4s] Therapist: That's a common feeling, but let's explore that word 'burden.' What makes you feel like sharing your struggles would be burdensome?
+
+[84.8s] Client: I don't know. I guess I've always been the one who has it together. People come to me for advice. It feels weird to be the one who needs support.
+
+[93.2s] Therapist: That's a significant insight. It sounds like you've taken on a role of being the strong one, the helper. But everyone needs support sometimes. What do you think would happen if you let your partner support you?
+
+[103.5s] Client: I... I'm not sure. Maybe they'd see me differently? Like I'm not as capable as they thought?
+
+[109.8s] Therapist: Those are understandable fears. In healthy relationships, vulnerability often brings people closer together rather than pushing them apart. Have you seen your partner be vulnerable with you?
+
+[119.2s] Client: Yeah, definitely. When they lost their job last year, they were really scared and upset. I was there for them.
+
+[126.4s] Therapist: And how did that affect your relationship? Did you think less of them for being vulnerable?
+
+[131.9s] Client: No, not at all. If anything, I felt closer to them. I was proud that they trusted me enough to share their fears.
+
+[139.7s] Therapist: That's beautiful. So you were able to be there for them without judgment, and it actually strengthened your bond. What do you think about applying that same compassion to yourself?
+
+[148.8s] Client: I... I never thought about it that way. I guess I have a double standard.
+
+[154.1s] Therapist: Many of us do. We're often much kinder to others than we are to ourselves. For this week, I'd like you to try one small step toward self-compassion. What's one thing you could do?
+
+[164.5s] Client: Maybe I could try talking to my partner about work. Just once, to see how it feels.
+
+[170.2s] Therapist: That sounds like a wonderful and brave first step. How are you feeling about our conversation today?
+
+[176.3s] Client: Good, actually. Lighter somehow. I feel like I have a direction now.
+
+[181.8s] Therapist: I'm glad to hear that. We'll continue exploring these patterns next week. Take care of yourself, and remember - you deserve the same kindness you give others.
+
+[190.5s] Client: Thank you. I'll try to remember that.

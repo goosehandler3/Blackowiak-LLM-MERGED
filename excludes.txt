@@ -1,0 +1,47 @@
+# Windows-specific modules (we're on macOS)
+_winapi
+msvcrt
+nt
+winreg
+_overlapped
+
+# Development and testing modules
+pytest
+unittest
+doctest
+pdb
+cProfile
+profile
+
+# Jupyter/IPython (not needed for CLI)
+IPython
+jupyter
+notebook
+
+# Matplotlib backends (reduce bloat)
+matplotlib.backends._backend_pdf
+matplotlib.backends._backend_ps
+matplotlib.backends._backend_svg
+matplotlib.backends.backend_qt5agg
+matplotlib.backends.backend_tkagg
+
+# Unused ML frameworks
+tensorflow
+keras
+jax
+flax
+
+# Documentation generators
+sphinx
+mkdocs
+
+# Linters and formatters (not needed at runtime)
+pylint
+flake8
+black
+autopep8
+
+# Version control
+git
+hg
+bzr
